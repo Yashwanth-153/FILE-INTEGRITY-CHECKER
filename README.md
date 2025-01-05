@@ -51,6 +51,9 @@ Key Constructs Used:
 -->  try-except block to catch and print errors during file handling or hashing.
 
 
+#  OUTPUT :
+
+![Task-1 Output](https://github.com/user-attachments/assets/da7b9e06-ad21-4795-8aab-cb158aab0ea2)
 
 
 
